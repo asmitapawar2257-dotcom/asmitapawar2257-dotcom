@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am first year computer science student studing at rajarambapu institute of technology,islampur,sangli, . cureently i am learning new languages like c,html,css. i am more interested in web development and cyber security ,i have participated in 2 hakethons till date<br> 
+i am second year computer science student studing at rajarambapu institute of technology,islampur,sangli, . cureently i am learning new languages like c,html,css. i am more interested in web development and cyber security ,i have participated in 2 hakethons till date<br> 
 
 
 ## 🌐 Socials:
